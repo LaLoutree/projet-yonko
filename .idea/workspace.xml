@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="1367936b-a1e3-42e7-8f3e-27536adfe946" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/safe/404.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/safe/css/404.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/safe/pictures.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project Yonko/ProjectSettings/Packages/com.unity.testtools.codecoverage/Settings.json" beforeDir="false" afterPath="$PROJECT_DIR$/Project Yonko/ProjectSettings/Packages/com.unity.testtools.codecoverage/Settings.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project Yonko/UserSettings/Layouts/CurrentMaximizeLayout.dwlt" beforeDir="false" afterPath="$PROJECT_DIR$/Project Yonko/UserSettings/Layouts/CurrentMaximizeLayout.dwlt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project Yonko/UserSettings/Layouts/default-2021.dwlt" beforeDir="false" afterPath="$PROJECT_DIR$/Project Yonko/UserSettings/Layouts/default-2021.dwlt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Site Web/safe/Pictures/Hospital.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Site Web/safe/Pictures/HospitalZombie.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Site Web/safe/Pictures/Shanks assis.png" beforeDir="false" afterPath="$PROJECT_DIR$/safe/Pictures/default.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Site Web/safe/Pictures/Virus.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Site Web/safe/Pictures/buttunoff.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Site Web/safe/Pictures/buttunon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Site Web/safe/Pictures/dawnback.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Site Web/safe/css/Stylesheet.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Site Web/safe/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Site Web/safe/js/script.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/safe/Pictures/Shanks assis.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/safe/Pictures/Virus.png" beforeDir="false" afterPath="$PROJECT_DIR$/safe/Pictures/Virus.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/safe/css/Stylesheet.css" beforeDir="false" afterPath="$PROJECT_DIR$/safe/css/Stylesheet.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/safe/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/safe/index.html" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2MQOr68GmkEZODjGPqUUHWSg2Gv" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "DefaultHtmlFileTemplate": "HTML File",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "list.type.of.created.stylesheet": "CSS",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\alexi\afs\projet-yonko\Site Web\safe" />
+      <recent name="C:\Users\alexi\afs\projet-yonko\Site Web" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1367936b-a1e3-42e7-8f3e-27536adfe946" name="Changes" comment="" />
+      <created>1677696535111</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1677696535111</updated>
+      <workItem from="1677696537384" duration="26000" />
+      <workItem from="1677841040308" duration="592000" />
+      <workItem from="1677858338505" duration="9000" />
+      <workItem from="1677858396294" duration="2552000" />
+      <workItem from="1678112729149" duration="1512000" />
+      <workItem from="1678114365195" duration="3021000" />
+      <workItem from="1678199458756" duration="5345000" />
+      <workItem from="1678208802470" duration="122000" />
+      <workItem from="1678287202188" duration="1713000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
