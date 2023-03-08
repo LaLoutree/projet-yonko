@@ -1,0 +1,194 @@
+body{
+    margin: 0;
+    padding: 0;
+    font-family: Arial, sans-serif;
+}
+div.Home{
+    position: fixed;
+    padding-top: 20px;
+    padding-left: 20px;
+    text-decoration: none;
+}
+span.Home{
+    background: white;
+    background-position-x: 100px;
+    background-position-y: 100px;
+    border-radius: 30px;
+}
+div.fond1{
+    padding-top: 1%;
+    background-position: 100%;
+}
+
+body.background1{
+    background: url("/safe/Pictures/Hospital.jpg") no-repeat;
+    background-size: 100%;
+}
+
+body.background2{
+    background: url("/safe/Pictures/dawnback.png");
+    background-size: 100%;
+}
+
+h1{
+    color: white;
+    font-family: "Droid Sans", sans-serif;
+    font-size: 30px;
+}
+
+nav.haut{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-bottom: 3px solid gray;
+    background-color: black;
+    background-attachment: fixed;
+}
+
+div.link{
+    margin-left: 50%;
+    margin-right: 100px;
+}
+
+div.link a{
+    justify-content: center;
+    text-decoration: none;
+    color: white;
+    padding-left: 12px;
+    margin-top: 3px;
+    padding-bottom: 5px;
+}
+
+div.linkbas a{
+    justify-content: center;
+    text-decoration: none;
+    color: white;
+    padding-left: 12px;
+    padding-bottom: 50px;
+}
+
+div.link a:visited{
+    color: gray;
+}
+
+div.home{
+    text-decoration: none;
+    padding-left: 12px;
+    padding-right: 12px;
+    border-radius: 20px;
+    position: fixed;
+    display: block;
+    background: white;
+}
+
+.button1{
+    color: black;
+    font-size: 20px;
+    padding: 10px 10px;
+    border-radius:10px;
+    background: grey;
+    transition-duration: 0.5s;
+    cursor: not-allowed;
+    border-color: white;
+}
+
+.button1:hover{
+    color: white;
+    background: black;
+}
+
+h2{
+    font-size: 150%;
+}
+
+div.center{
+    text-align: center;
+    padding: 10px 10px;
+}
+span.left{
+    font-size: 25px;
+    border-radius: 10px;
+    color: white;
+    border: 3px white solid;
+    padding-right: 5px;
+    padding-left: 5px;
+    text-align-all: center;
+}
+
+p{
+    color: white;
+    display: inline;
+    width: 30%;
+    height: 75%;
+}
+
+h3{
+    font-style: italic;
+    color: orange;
+    padding-left: 25%;
+    padding-top: 5px;
+}
+
+div.bloc_right{
+    text-align: right;
+    padding-right: 100px;
+}
+
+div.text_left{
+    text-align: left;
+    padding-top: 2%;
+    padding-left: 20%;
+    width: 30%;
+    position: absolute;
+}
+
+div.fond1{
+    background: url("/safe/Pictures/dawnback.png");
+}
+select{
+    background: grey;
+    color: white;
+    transition-duration: 0.4s;
+    width: 20%;
+}
+
+select:hover{
+    background: dimgrey;
+    color: papayawhip;
+}
+
+div.ask{
+    color: white;
+    padding-top: 1%;
+    padding-right: 8%;
+}
+div.list{
+    padding: 10px 0 200px 0;
+}
+option{
+    color: white;
+    position: fixed;
+}
+div.absolute{
+    position: absolute;
+    padding-left: 250px;
+}
+img.absolute{
+    padding-top: 25%;
+}
+div.right{
+    text-align: right;
+    padding-right: 100px;
+}
+div.list1{
+    padding-bottom: 90px;
+}
+div.list2{
+    padding-bottom: 125px;
+}
+div.list3{
+    padding-bottom: 75px;
+}
+div.second{
+    padding-bottom: 5%;
+}
