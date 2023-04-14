@@ -1,6 +1,7 @@
 using UnityEngine;
 using System.Collections;
 using System;
+using TMPro;
 
 public class Player : MonoBehaviour
 {
@@ -23,10 +24,12 @@ public class Player : MonoBehaviour
     [SerializeField] public int Money;
     public HealthBar HealthBar;
     public ShieldBar ShieldBar;
+    public TMP_Text TextMoney;
 
 
     Player(string type, string username) //Creer un personnage en prenant son type (nos 4 persos)
     {
+        Money = 0;
         Username = username;
         MaxShield = 100;
         MaxHealth = 100;
@@ -82,7 +85,10 @@ public class Player : MonoBehaviour
         if(Input.GetKeyDown(KeyCode.Space))
         {
             TakeDamage(75);
+            Money += 10;
         }
+        
+        TextMoney.SetText("Money : " + Money);
     }
 
     void TakeDamage(int damage)

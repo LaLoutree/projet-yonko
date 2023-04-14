@@ -84,6 +84,7 @@ public class FirstPersonController : MonoBehaviour
         float moveDirectionY = moveDirection.y;
         moveDirection = (transform.TransformDirection(Vector3.forward) * currentInput.x) + (transform.TransformDirection(Vector3.right) * currentInput.y);
         moveDirection.y = moveDirectionY;
+        Playanimator.SetTrigger("Speed");
     }
 
     private void HandleMouseLook()
@@ -97,13 +98,19 @@ public class FirstPersonController : MonoBehaviour
     private void HandleJump()
     {
         if (ShouldJump)
+        {
             moveDirection.y = jumpForce;
+            Playanimator.SetTrigger("Jump");
+        }
     }
 
     private void HandleCrouch()
     {
         if (ShouldCrouch)
+        {
             StartCoroutine(CrouchStand());
+            Playanimator.SetTrigger("Sneak");
+        }
     }
 
     private void ApplyFinalMovement()
